@@ -1,5 +1,5 @@
 "mazbot":["#ceiling#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#floor#"],
-	"ceiling":["#prize##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling#┐"],
+	"ceiling":["┌#randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##prize#"],
 	"randomceiling":["┬","┬","─"],
 	"middle":["│#randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle#│",
 "├#randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle#│",
