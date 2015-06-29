@@ -1,11 +1,21 @@
-"mazbot":["#ceiling#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#floor#"],
+"origin":["#maze#","#maze2#","#maze3#"],
+"maze":["#ceiling#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#middle#\n#floor#"],
+"maze2":["#ceiling2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#middle2#\n#floor2#"],
+"maze3":["#ceiling3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#middle3#\n#floor3#"],
 	"ceiling":["┌#randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling#─#prize#"],
+	"ceiling2":["┌#randomceiling##randomceiling##randomceiling##randomceiling##randomceiling##randomceiling#─#prize#"],
+	"ceiling3":["┌#randomceiling##randomceiling##randomceiling##randomceiling#─#prize#"],
 	"randomceiling":["┬","┬","─"],
 	"middle":[
-"├#randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle#┤",
 "├#randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle#┤"],
+	"middle2":[
+"├#randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle##randommiddle#┤"],
+	"middle3":[
+"├#randommiddle##randommiddle##randommiddle##randommiddle##randommiddle#┤"],
 	"randommiddle":["─","─","─","┬","┴","┼","┤","├","┤","├","┌","┐","└","┘"],
 	"floor":["└#randomfloor##randomfloor##randomfloor##randomfloor##randomfloor##randomfloor##randomfloor##randomfloor#─#mouse#"],
+	"floor2":["└#randomfloor##randomfloor##randomfloor##randomfloor##randomfloor##randomfloor#─#mouse#"],
+	"floor3":["└#randomfloor##randomfloor##randomfloor##randomfloor#─#mouse#"],
 	"randomfloor":["┴","┴","─"],
 	"prize":["🍪","🍦","🍩","🍫","🍬","🍭","🍰","🎁","🍇","🍉","🍌","🍒","🍔","🍕"],
-	"mouse":["🐁","🐀"],
+	"mouse":["🐁","🐀"]
